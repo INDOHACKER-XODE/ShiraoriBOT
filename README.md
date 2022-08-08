@@ -56,7 +56,7 @@ node .
 
 
 ## Edit file
-- Ganti Nomor Owner [disini](https://github.com/ilmanhdyt/ShiraoriBOT/blob/main/config.js)
+- Ganti Nomor Owner [disini](https://github.com/INDOHACKER-XODE/ShiraoriBOT/blob/main/config.js)
 - Ganti Tampilan Menu [disini](https://github.com/ilmanhdyt/ShiraoriBOT/blob/main/plugins/menu.js)
 
 - Kalian bisa menambah fitur dengan cara pull request
